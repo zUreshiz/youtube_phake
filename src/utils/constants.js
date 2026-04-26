@@ -17,7 +17,6 @@ export const logo =
 
 export const categories = [
   { name: "New", icon: <HomeIcon /> },
-  { name: "JS Mastery", icon: <CodeIcon /> },
   { name: "Coding", icon: <CodeIcon /> },
   { name: "ReactJS", icon: <CodeIcon /> },
   { name: "NextJS", icon: <CodeIcon /> },
@@ -36,7 +35,7 @@ export const categories = [
 ];
 // Điều chỉnh lại sau
 export const demoThumbnailUrl = "https://i.ibb.co/G2L2Gwp/API-Course.png";
-export const demoChannelUrl = "/channel/UCmXmlB4-HJytD7wek0Uo97A";
+export const demoChannelUrl = "";
 export const demoVideoUrl = "https://youtu.be/dQw4w9WgXcQ?si=l3S6A1tkP2GH1ItP";
 export const demoChannelTitle = "Channel Name";
 export const demoVideoTitle = "User Name";
